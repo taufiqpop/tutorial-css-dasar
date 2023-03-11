@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+}
+
+/* Koma untuk properti yang sama */
+h1, h2 {
+    color: green;
+}
+
+/* Spasi lebih spesifik */
+ul li a {
+    color: orange;
+}
+ol li a {
+    color: red;
+}
+
+/* id sebaiknya tidak digunakan untuk css, lebih baik class saja */
+/* id */
+#p1 {
+    color: brown;
+}
+
+/* class */
+.p2 {
+    color: cyan;
+}
+.cetak-tebal {
+    font-weight: bold;  
+}
+p.cetak-tebal {
+    font-size: 30px;  
+}
+a.cetak-tebal {
+    font-size: 50px;  
+}

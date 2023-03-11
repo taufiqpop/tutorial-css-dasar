@@ -1,0 +1,17 @@
+/* belaja mengenai text styling */
+h1 {
+    font-size: 100px;
+    color: rgb(101, 80, 90);
+    text-transform: uppercase;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+    text-decoration: line-through;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+a {
+    text-decoration: none;
+}
