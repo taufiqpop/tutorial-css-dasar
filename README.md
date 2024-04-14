@@ -1,2 +1,4 @@
 # tutorial-css-dasar
-Tutorial CSS (Cascading Style Sheets) Dasar
+Belajar CSS (Cascading Style Sheets) Dasar
+
+## https://developer.mozilla.org/en-US/docs/Web/CSS
